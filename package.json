@@ -1,0 +1,22 @@
+{
+  "name": "Node-Express-API",
+  "version": "1.0.0",
+  "description": "Node Express 로 만들어보는 API 시스템",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InSeok9068/Node-Express-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InSeok9068/Node-Express-API/issues"
+  },
+  "homepage": "https://github.com/InSeok9068/Node-Express-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
